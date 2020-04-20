@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'burbank_big_condensedblack';
+    src: url('burbank_big_condensed_black-webfont.woff2') format('woff2'),
+         url('burbank_big_condensed_black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
